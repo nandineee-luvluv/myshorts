@@ -1,0 +1,23 @@
+1
+00:00:00,250 --> 00:00:04,150
+> STREAM DETECTED. Live chat is moving. The signal is building.
+
+2
+00:00:04,550 --> 00:00:08,450
+> SPIKE FOUND. Reaction surge detected. Capture the moment around it.
+
+3
+00:00:08,850 --> 00:00:12,750
+> SHORT GENERATED. Vertical 9:16 render. Burned-in subtitles + SRT.
+
+4
+00:00:13,150 --> 00:00:17,050
+> YOUTUBE READY. Relevant gaming metadata. Optional English caption track.
+
+5
+00:00:17,450 --> 00:00:21,350
+RUN IT LOCALLY. Private by default. Publishing stays off until enabled.
+
+6
+00:00:20,100 --> 00:00:21,200
+Public promo assets: github.com/nandineee-luvluv/myshorts. Source clipper is private.

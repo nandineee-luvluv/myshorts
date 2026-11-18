@@ -1,0 +1,23 @@
+1
+00:00:00,250 --> 00:00:04,150
+Find the moment.. Monitor live chat for surges. No timeline scrubbing.
+
+2
+00:00:04,550 --> 00:00:08,450
+Cut around the spike.. Capture the context. Turn reactions into highlights.
+
+3
+00:00:08,850 --> 00:00:12,750
+Format for the feed.. Vertical 9:16 video. Burned-in captions + SRT.
+
+4
+00:00:13,150 --> 00:00:17,050
+Make it discoverable.. Accurate gaming metadata. Optional YouTube caption upload.
+
+5
+00:00:17,450 --> 00:00:21,350
+Automation, on your terms.. Local-first and private by default. Publishing is opt-in.
+
+6
+00:00:20,100 --> 00:00:21,200
+Public promo assets: github.com/nandineee-luvluv/myshorts. Source clipper is private.

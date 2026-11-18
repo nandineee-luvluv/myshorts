@@ -1,0 +1,23 @@
+1
+00:00:00,250 --> 00:00:04,150
+LIVE TO LEGEND. Don’t miss the wild moment. Let chat call the play.
+
+2
+00:00:04,550 --> 00:00:08,450
+CHAT GOES WILD. Spot the reaction spike. Cut the highlight automatically.
+
+3
+00:00:08,850 --> 00:00:12,750
+SHORTS MODE: ON. Vertical framing. Captions burned in + SRT.
+
+4
+00:00:13,150 --> 00:00:17,050
+READY FOR YOUTUBE. Gaming-first metadata. Optional English captions.
+
+5
+00:00:17,450 --> 00:00:21,350
+YOUR CHANNEL. YOUR RULES.. Local-first setup. Private default · publishing off.
+
+6
+00:00:20,100 --> 00:00:21,200
+Public promo assets: github.com/nandineee-luvluv/myshorts. Source clipper is private.
